@@ -1,0 +1,23 @@
+.red{
+    background: red;
+}
+.black{
+    background: black;
+    color: white;
+}
+.blue{
+    background: blue;
+}
+.white{
+    color: white;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.p{
+    width: 100%;
+}
